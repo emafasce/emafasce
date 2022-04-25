@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello World, I am Emanuele 👋
+
+I'm currently detecting malwares through machine learning at Sysdig in Milan, using mainly Python and working with Jenkins, Docker, Kubernetes and Prometheus.
+
+I completed the Msc in Data Science and Engineering at Polytechnic of Turin in April 2022, graduating with 110/110 with honors, focusing on machine learning and big data.
+
+From January 2021 to June 2021 I carried out my master degree thesis in computer vision for defect detection at Luxottica, Agordo.
 
 <!--
 **emafasce/emafasce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
